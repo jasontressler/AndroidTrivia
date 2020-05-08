@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="front">Answer</string>
+    <string name="lblQuestion">Question</string>
+    <string name="btnQuestion">Next Question</string>
+    <string name="cardFront">Answer</string>
+</resources>
